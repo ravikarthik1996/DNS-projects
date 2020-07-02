@@ -1,0 +1,10 @@
+2019-04-03 00:37:41.211614 Client IP: 127.0.0.1     request is    google.com. IN A
+2019-04-03 00:37:41.322393 Client IP: 127.0.0.1     request is    google.com. IN AAAA
+2019-04-03 00:37:41.451674 Client IP: 127.0.0.1     request is    www.google.com. IN A
+2019-04-03 00:37:41.498613 Client IP: 127.0.0.1     request is    www.google.com. IN AAAA
+2019-04-03 00:37:42.013132 Client IP: 127.0.0.1     request is    ssl.gstatic.com. IN A
+2019-04-03 00:37:42.076647 Client IP: 127.0.0.1     request is    ssl.gstatic.com. IN AAAA
+2019-04-03 00:37:42.686908 Client IP: 127.0.0.1     request is    apis.google.com. IN A
+2019-04-03 00:37:42.739334 Client IP: 127.0.0.1     request is    apis.google.com. IN AAAA
+2019-04-03 00:37:43.312398 Client IP: 127.0.0.1     request is    googleads.g.doubleclick.net. IN A
+2019-04-03 00:37:43.364843 Client IP: 127.0.0.1     request is    googleads.g.doubleclick.net. IN AAAA
