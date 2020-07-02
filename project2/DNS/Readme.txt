@@ -1,3 +1,3 @@
-dnsproject.py-updated the error
-dnsproject1.py- I combined your algorithm with mine to get result
-dnsproject2.py- I used your algorithm to create report.txt
+dnsproject.py (ALGORITHM 1)
+dnsproject1.py (ALGORITHM 2)
+dnsproject2.py ALGORITHM 3)
